@@ -5,3 +5,7 @@ us.i.posthog.com
 52.4.194.122
 t.co
 t.co
+analytics.google.com
+www.google-analytics.com
+ssl.google-analytics.com
+*.google-analytics.com
